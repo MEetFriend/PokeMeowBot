@@ -32,4 +32,4 @@ client.on('message', message => {
     }
 });
 
-client.login(mfa.-XUAKwQhsbtgeJsLqT1fCpcBAYKVt_YScjH8s3G3Q__NazzKi89WYTgRrKjJw08rCN35tZuiOrKsjP81cgL8);
+client.login("mfa.-XUAKwQhsbtgeJsLqT1fCpcBAYKVt_YScjH8s3G3Q__NazzKi89WYTgRrKjJw08rCN35tZuiOrKsjP81cgL8");
